@@ -1,0 +1,15 @@
+C:\Users\rasoo\Documents\Work Space\Maktab\Maktab 71\Class Projects\Session 08\CaloryCalculatorOOP\CaloryCalculatorOOP\obj\Debug\net6.0\CaloryCalculatorOOP.csproj.AssemblyReference.cache
+C:\Users\rasoo\Documents\Work Space\Maktab\Maktab 71\Class Projects\Session 08\CaloryCalculatorOOP\CaloryCalculatorOOP\obj\Debug\net6.0\CaloryCalculatorOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasoo\Documents\Work Space\Maktab\Maktab 71\Class Projects\Session 08\CaloryCalculatorOOP\CaloryCalculatorOOP\obj\Debug\net6.0\CaloryCalculatorOOP.AssemblyInfoInputs.cache
+C:\Users\rasoo\Documents\Work Space\Maktab\Maktab 71\Class Projects\Session 08\CaloryCalculatorOOP\CaloryCalculatorOOP\obj\Debug\net6.0\CaloryCalculatorOOP.AssemblyInfo.cs
+C:\Users\rasoo\Documents\Work Space\Maktab\Maktab 71\Class Projects\Session 08\CaloryCalculatorOOP\CaloryCalculatorOOP\obj\Debug\net6.0\CaloryCalculatorOOP.csproj.CoreCompileInputs.cache
+C:\Users\rasoo\Documents\Work Space\Maktab\Maktab 71\Class Projects\Session 08\CaloryCalculatorOOP\CaloryCalculatorOOP\bin\Debug\net6.0\CaloryCalculatorOOP.exe
+C:\Users\rasoo\Documents\Work Space\Maktab\Maktab 71\Class Projects\Session 08\CaloryCalculatorOOP\CaloryCalculatorOOP\bin\Debug\net6.0\CaloryCalculatorOOP.deps.json
+C:\Users\rasoo\Documents\Work Space\Maktab\Maktab 71\Class Projects\Session 08\CaloryCalculatorOOP\CaloryCalculatorOOP\bin\Debug\net6.0\CaloryCalculatorOOP.runtimeconfig.json
+C:\Users\rasoo\Documents\Work Space\Maktab\Maktab 71\Class Projects\Session 08\CaloryCalculatorOOP\CaloryCalculatorOOP\bin\Debug\net6.0\CaloryCalculatorOOP.dll
+C:\Users\rasoo\Documents\Work Space\Maktab\Maktab 71\Class Projects\Session 08\CaloryCalculatorOOP\CaloryCalculatorOOP\bin\Debug\net6.0\ref\CaloryCalculatorOOP.dll
+C:\Users\rasoo\Documents\Work Space\Maktab\Maktab 71\Class Projects\Session 08\CaloryCalculatorOOP\CaloryCalculatorOOP\bin\Debug\net6.0\CaloryCalculatorOOP.pdb
+C:\Users\rasoo\Documents\Work Space\Maktab\Maktab 71\Class Projects\Session 08\CaloryCalculatorOOP\CaloryCalculatorOOP\obj\Debug\net6.0\CaloryCalculatorOOP.dll
+C:\Users\rasoo\Documents\Work Space\Maktab\Maktab 71\Class Projects\Session 08\CaloryCalculatorOOP\CaloryCalculatorOOP\obj\Debug\net6.0\ref\CaloryCalculatorOOP.dll
+C:\Users\rasoo\Documents\Work Space\Maktab\Maktab 71\Class Projects\Session 08\CaloryCalculatorOOP\CaloryCalculatorOOP\obj\Debug\net6.0\CaloryCalculatorOOP.pdb
+C:\Users\rasoo\Documents\Work Space\Maktab\Maktab 71\Class Projects\Session 08\CaloryCalculatorOOP\CaloryCalculatorOOP\obj\Debug\net6.0\CaloryCalculatorOOP.genruntimeconfig.cache
